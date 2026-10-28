@@ -971,12 +971,12 @@ If demo accounts are included, document them here.
 
 ```text
 Admin:
-Email: <admin-email>
-Password: <admin-password>
+Email: admin@support.com
+Password: admin123
 
 Agent:
-Email: <agent-email>
-Password: <agent-password>
+Email: Kuldeep@gmail.com
+Password: Kuldeep@2026
 ```
 
 Do not commit real production credentials to the repository.
