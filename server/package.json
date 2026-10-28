@@ -1,0 +1,23 @@
+{
+  "name": "support-desk-backend",
+  "version": "1.0.0",
+  "description": "Support Desk System Backend",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.24.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
